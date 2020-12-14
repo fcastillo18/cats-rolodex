@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/cats-rolodex/static/css/main.6108ccef.chunk.css",
+    "main.js": "/github.io/cats-rolodex/static/js/main.fabaa573.chunk.js",
+    "main.js.map": "/github.io/cats-rolodex/static/js/main.fabaa573.chunk.js.map",
+    "runtime-main.js": "/github.io/cats-rolodex/static/js/runtime-main.383d4abe.js",
+    "runtime-main.js.map": "/github.io/cats-rolodex/static/js/runtime-main.383d4abe.js.map",
+    "static/js/2.c1e0678e.chunk.js": "/github.io/cats-rolodex/static/js/2.c1e0678e.chunk.js",
+    "static/js/2.c1e0678e.chunk.js.map": "/github.io/cats-rolodex/static/js/2.c1e0678e.chunk.js.map",
+    "static/js/3.26c9c44d.chunk.js": "/github.io/cats-rolodex/static/js/3.26c9c44d.chunk.js",
+    "static/js/3.26c9c44d.chunk.js.map": "/github.io/cats-rolodex/static/js/3.26c9c44d.chunk.js.map",
+    "index.html": "/github.io/cats-rolodex/index.html",
+    "static/css/main.6108ccef.chunk.css.map": "/github.io/cats-rolodex/static/css/main.6108ccef.chunk.css.map",
+    "static/js/2.c1e0678e.chunk.js.LICENSE.txt": "/github.io/cats-rolodex/static/js/2.c1e0678e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.383d4abe.js",
+    "static/js/2.c1e0678e.chunk.js",
+    "static/css/main.6108ccef.chunk.css",
+    "static/js/main.fabaa573.chunk.js"
+  ]
+}
