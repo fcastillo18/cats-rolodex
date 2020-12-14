@@ -1,8 +1,8 @@
 {
-  "name": "monster-rolodex",
+  "name": "cats-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://fcastillo18/github.io/cats-rolodex",
+  "homepage": "https://fcastillo18/github.io/cats-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
